@@ -21,4 +21,29 @@
         <category>uncategorized</category>
       </categories>
   </entry>
+  <entry>
+    <title>post小猪佩奇</title>
+    <url>/article/b2e7d904.html</url>
+    <content><![CDATA[<p>猪妈妈   猪爸爸   乔治</p>
+]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>post</title>
+    <url>/article/5a8a6c8d.html</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
 </search>
